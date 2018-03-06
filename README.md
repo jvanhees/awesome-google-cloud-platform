@@ -9,20 +9,39 @@
 - [Another Section](#another-section)
 
 
-## Section
+# General
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
+- [Google Cloud Platform Icons](https://cloud.google.com/icons/) Icons for your presentations and architectural charts
 - [List item](http://example.com)
 
 
-## Another Section
+# Command Line Tools
 
-### Subsection
+## Cloud Shell
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+Browser based command-line access to the Google Cloud Platform.
+
+- [Overview](https://cloud.google.com/shell/)
+- [Documentation](https://cloud.google.com/shell/docs/)
+- [Quickstart](https://cloud.google.com/shell/docs/quickstart)
+
+
+## SDK
+
+Manage all tools and resources on the Google Cloud Platform using the command line. Contains gcloud, gsutil and bq for Compute Engine, Cloud Storage and BigQuery.
+
+- [Overview](https://cloud.google.com/sdk/)
+- [Documentation](https://cloud.google.com/sdk/docs/)
+- [API Reference](https://cloud.google.com/sdk/gcloud/reference/)
+
+
+### Client Libraries
+
+todo...
+
+# Machine Learning
+
+- [TensorFlow](https://www.tensorflow.org/) General machine learning framework that runs as a service on Google Cloud Machine Learning
 
 
 ## Contribute
