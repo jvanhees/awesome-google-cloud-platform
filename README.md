@@ -1,3 +1,9 @@
+<br/>
+<p align="center">
+  <img src="https://github.com/jvanhees/awesome-google-cloud-platform/raw/master/Google%20Cloud%20Platform.png">
+</p>
+<br/>
+
 # Awesome Google Cloud Platform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Google Cloud Platform libraries, open source repos, guides, blogs, and other resources.
