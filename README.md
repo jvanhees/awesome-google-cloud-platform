@@ -39,6 +39,23 @@ Manage all tools and resources on the Google Cloud Platform using the command li
 
 todo...
 
+
+# Products
+
+## Compute Engine
+
+- [Overview](https://cloud.google.com/appengine/?hl=nl)
+- [Documentation](https://cloud.google.com/compute/docs/?hl=nl)
+- [Compute Images](https://github.com/GoogleCloudPlatform/compute-image-packages)
+- [Compute Engine Image Tools](https://github.com/GoogleCloudPlatform/compute-image-tools)
+
+
+## App Engine
+
+- [Overview](https://cloud.google.com/appengine/?hl=nl)
+- [Documentation](https://cloud.google.com/appengine/docs/?hl=nl)
+
+
 # Machine Learning
 
 - [TensorFlow](https://www.tensorflow.org/) General machine learning framework that runs as a service on Google Cloud Machine Learning
