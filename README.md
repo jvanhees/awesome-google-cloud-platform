@@ -5,14 +5,18 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [General](#general)
+- [Command Line Tools](#command-line-tools)
+- - [Cloud Shell](#cloud-shell)
+- - [SDK](#sdk)
+- [Products](#products)
+- - [Compute Engine](#compute-engine)
+- - [App Engine](#app-engine)
 
 
 # General
 
 - [Google Cloud Platform Icons](https://cloud.google.com/icons/) Icons for your presentations and architectural charts
-- [List item](http://example.com)
 
 
 # Command Line Tools
@@ -33,11 +37,6 @@ Manage all tools and resources on the Google Cloud Platform using the command li
 - [Overview](https://cloud.google.com/sdk/)
 - [Documentation](https://cloud.google.com/sdk/docs/)
 - [API Reference](https://cloud.google.com/sdk/gcloud/reference/)
-
-
-### Client Libraries
-
-todo...
 
 
 # Products
