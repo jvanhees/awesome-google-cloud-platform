@@ -7,11 +7,11 @@
 
 - [General](#general)
 - [Command Line Tools](#command-line-tools)
-- - [Cloud Shell](#cloud-shell)
-- - [SDK](#sdk)
+  - [Cloud Shell](#cloud-shell)
+  - [SDK](#sdk)
 - [Products](#products)
-- - [Compute Engine](#compute-engine)
-- - [App Engine](#app-engine)
+  - [Compute Engine](#compute-engine)
+  - [App Engine](#app-engine)
 
 
 # General
