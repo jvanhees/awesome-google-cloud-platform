@@ -15,9 +15,10 @@
 - [Command Line Tools](#command-line-tools)
   - [Cloud Shell](#cloud-shell)
   - [SDK](#sdk)
-- [Products](#products)
+- [Cloud Products](#products)
   - [Compute Engine](#compute-engine)
   - [App Engine](#app-engine)
+- [Firebase](#firebase)
 
 
 # General
@@ -46,7 +47,7 @@ Manage all tools and resources on the Google Cloud Platform using the command li
 - [API Reference](https://cloud.google.com/sdk/gcloud/reference/)
 
 
-# Products
+# Cloud Products
 
 ## Compute Engine
 
@@ -65,6 +66,12 @@ Manage all tools and resources on the Google Cloud Platform using the command li
 # Machine Learning
 
 - [TensorFlow](https://www.tensorflow.org/) General machine learning framework that runs as a service on Google Cloud Machine Learning
+
+
+# Firebase
+
+- [AngularFire2](https://github.com/angular/angularfire2) The official library for Firebase and Angular
+- [AngularFire](https://github.com/firebase/angularfire) AngularFire is the officially supported AngularJS binding for Firebase.
 
 
 ## Contribute
